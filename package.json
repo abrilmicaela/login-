@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/cli": "^18.2.10",
+    "@angular/core": "^18.2.9",
+    "bootstrap": "^5.3.3",
+    "ng": "^0.0.0",
+    "update": "^0.7.4"
+  }
+}
